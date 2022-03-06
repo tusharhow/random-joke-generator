@@ -1,16 +1,12 @@
-# random_joke_generator
+# Random Joke Generator App In Flutter using Rest API
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/7SFfx8PsuPw)
 
-## Getting Started
+### Random Joke Generator App In Flutter using Rest API - Flutter Provider
 
-This project is a starting point for a Flutter application.
+A nice clean Random Joke Generator App In Flutter using Rest API In Flutter.Today I will show you how you can create Random Joke Generator App In Flutter using Rest API using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Random Joke Generator App UI In Flutter using Rest API
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/156937454-8e7d8c43-821b-4449-8528-fef61d281c34.png" alt="portfolio" width="600">
